@@ -27290,7 +27290,7 @@ $RefreshReg$(_c, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","regenerator-runtime/runtime":"dXNgZ","./assets/global.css":"1hP5v","react":"21dqq","react-bootstrap/Container":"hEdsw","react-bootstrap/Nav":"cXyL2","react-bootstrap/Navbar":"1mHjo","react-bootstrap/Row":"cMC39","react-bootstrap/Card":"lAynp","react-bootstrap/Button":"aPzUt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./styles/App.scss":"b5cYd"}],"dXNgZ":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","regenerator-runtime/runtime":"dXNgZ","./assets/global.css":"1hP5v","./styles/App.scss":"b5cYd","react":"21dqq","react-bootstrap/Container":"hEdsw","react-bootstrap/Nav":"cXyL2","react-bootstrap/Navbar":"1mHjo","react-bootstrap/Row":"cMC39","react-bootstrap/Card":"lAynp","react-bootstrap/Button":"aPzUt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"dXNgZ":[function(require,module,exports) {
 /**
  * Copyright (c) 2014-present, Facebook, Inc.
  *
@@ -27857,7 +27857,7 @@ try {
     else Function("r", "regeneratorRuntime = r")(runtime);
 }
 
-},{}],"1hP5v":[function() {},{}],"hEdsw":[function(require,module,exports) {
+},{}],"1hP5v":[function() {},{}],"b5cYd":[function() {},{}],"hEdsw":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _classnames = require("classnames");
@@ -33757,7 +33757,7 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"react-refresh/runtime":"786KC"}],"b5cYd":[function() {},{}],"dg9wB":[function(require,module,exports) {
+},{"react-refresh/runtime":"786KC"}],"dg9wB":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 // Wallet that simplifies using the wallet selector
